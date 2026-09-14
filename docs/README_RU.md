@@ -28,6 +28,8 @@
 
 CoinGlance следит ровно за двумя монетами (`bitcoin`, `toncoin`) в **USD** или **EUR**, показывает изменение за 24ч и хранит последние успешные цены в **Drift**, если сеть или лимит CoinGecko подвели. Бейдж **Stale** — когда данные старше пяти минут или остались только из кеша после неудачного refresh.
 
+Нативный **только Android** вариант (Kotlin, Compose, Room): [coinglance-android](https://github.com/xvDoshik/coinglance-android).
+
 ---
 
 ## ✨ Возможности

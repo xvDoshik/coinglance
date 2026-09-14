@@ -28,6 +28,8 @@ One-line pitch: *offline-first CoinGecko client with a home widget and pull-to-r
 
 CoinGlance tracks exactly two assets (`bitcoin`, `toncoin`) against **USD** or **EUR**, shows 24h change, and keeps the last good prices in **Drift** when the network or CoinGecko rate limit fails. A **Stale** badge appears when displayed data is older than five minutes or came only from cache after a failed refresh.
 
+Native **Android-only** sibling (Kotlin, Compose, Room): [coinglance-android](https://github.com/xvDoshik/coinglance-android).
+
 ---
 
 ## ✨ Features
