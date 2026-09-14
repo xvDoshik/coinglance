@@ -1,0 +1,11 @@
+lib/** linguist-language=Dart
+test/** linguist-language=Dart
+*.dart linguist-language=Dart
+android/** linguist-vendored
+ios/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+web/** linguist-vendored
+build/** linguist-vendored
+.dart_tool/** linguist-vendored
